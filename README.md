@@ -12,8 +12,8 @@ My name is Lucas Araujo, I'm 16 years old and I'm a beginner developer in consta
   
 <p>
 
-![Lucas Araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Araujo15&theme=radical&show_icons=true)
+<p align="left">![Lucas Araujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Araujo15&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Araujo15&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Araujo15&theme=radical&layout=compact)</p>
 
 
