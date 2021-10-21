@@ -12,8 +12,10 @@ My name is Lucas Araujo, I'm 16 years old and I'm a beginner developer in consta
   
 <div align="center">
   <a href="https://github.com/Lucas-Araujo15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Araujo15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Araujo15&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Araujo15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Araujo15&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+
+ 
  
