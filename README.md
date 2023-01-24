@@ -3,7 +3,7 @@
 
 # Hello world! 😀
 My name is Lucas Araujo, I'm 18 years old and I'm a beginner developer in constant improvement. Acting in Brazil, I am currently studying the first semester of systems development at the technical education institution SENAI. 
-- 🇧🇷 I am from Carapicuíba - SP, Brazil.
+- I am from Carapicuíba - SP, Brazil.
 - 🌱 I am currently learning about the Node.js and TypeScript. 
 - 📫 How to reach me: **lucasaraujo4188@gmail.com**
 
